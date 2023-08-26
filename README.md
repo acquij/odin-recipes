@@ -1,2 +1,4 @@
 # odin-recipes
-The first project in The Odin Project.
+This is the first project in The Odin Project.
+
+The assignment is to create a simple website containing a few recipes using just HTML.
